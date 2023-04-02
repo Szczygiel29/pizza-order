@@ -8,7 +8,7 @@ Install Node.js if you haven't already: https://nodejs.org/en/
 Open a terminal or command prompt in the project directory.
 Run npm install to install dependencies.
 Run node server.js to start the server.
-Open a web browser and navigate to http://localhost:3000.
+Open a web browser and navigate to http://localhost:9000.
 Choose a pizza from the menu.
 Customize the pizza by selecting toppings and adjusting the size and quantity.
 View allergen information for the selected pizza.
